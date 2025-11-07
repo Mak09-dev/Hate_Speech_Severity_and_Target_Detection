@@ -90,7 +90,6 @@ A compact version of BERT retaining ~97% of performance while being faster and l
 ├── LG AND MNB Implementation.ipynb   # Logistic Regression & Naive Bayes models
 ├── DistilBERT Implementation.ipynb    # Transformer fine-tuning & evaluation
 ├── GRP-13-MTECH.pdf                   # Detailed project report
-├── GRP-13-MTECH-PPT.pdf               # Presentation slides
 └── README.md                          # Documentation file
 ```
 
