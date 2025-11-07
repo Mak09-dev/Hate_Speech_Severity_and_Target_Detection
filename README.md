@@ -1,4 +1,4 @@
-# 🧠 Evaluating Traditional ML Models vs Transformer Architectures for Hate Speech Detection
+# 🧠 Evaluating Traditional ML Models against Transformer Architectures for Hate Speech Severity and Target Detection
 
 ## 📌 Overview
 
