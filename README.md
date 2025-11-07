@@ -86,12 +86,20 @@ A compact version of BERT retaining ~97% of performance while being faster and l
 
 ## 🧩 Repository Structure
 
-```
-├── LG AND MNB Implementation.ipynb   # Logistic Regression & Naive Bayes models
-├── DistilBERT Implementation.ipynb    # Transformer fine-tuning & evaluation
-├── GRP-13-MTECH.pdf                   # Detailed project report
-└── README.md                          # Documentation file
-```
+📦 HateSpeech_Severity_and_Target_Detection/
+│
+├── data/                        # Dataset used for training and evaluation
+│   └── OLID_Dataset.zip
+│
+├── docs/                        # Project documentation
+│   └── GRP-13-MTECH.pdf
+│
+├── models/                      # Implementation notebooks
+│   ├── 01_LR_MNB_Implementation.ipynb
+│   └── 02_DistilBERT_Implementation.ipynb
+│
+└── README.md                    # Main project overview and usage instructions
+
 
 ---
 
