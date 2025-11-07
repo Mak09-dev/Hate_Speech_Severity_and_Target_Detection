@@ -87,12 +87,12 @@ A compact version of BERT retaining ~97% of performance while being faster and l
 ## 📂 Repository Structure
 
 ```
-📦 HateSpeechDetection/
+📦 Hate_Speech_Severity_and_Target_Detection/
 │
 ├── data/                        # Dataset used for training and evaluation
 │   └── OLID_Dataset.zip
 │
-├── docs/                        # Project documentation and report
+├── docs/                        # Project documentation
 │   └── GRP-13-MTECH.pdf
 │
 ├── models/                      # Implementation notebooks
