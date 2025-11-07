@@ -113,8 +113,8 @@ Together, they form a balanced approach for scalable and explainable **hate spee
 * Hrishiraj Sawan (2402012)
 * Sunidhi Choudhary (2402035)
 
-**Project Guide:** *Dr. Kuntal Dey*
-Department of Computer Science & Engineering
+**Project Guide:** *Dr. Kuntal Dey*,
+Department of Computer Science & Engineering,
 Indian Institute of Information Technology, Guwahati
 
 ---
