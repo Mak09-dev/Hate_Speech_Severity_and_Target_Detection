@@ -119,14 +119,6 @@ Indian Institute of Information Technology, Guwahati
 
 ---
 
-## ⚙️ Tech Stack
-
-* Python (scikit-learn, pandas, numpy)
-* Hugging Face Transformers (DistilBERT)
-* Jupyter Notebook
-* Kaggle OLID Dataset
-
----
 
 ## 📚 Citation
 
