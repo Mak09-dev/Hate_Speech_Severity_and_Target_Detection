@@ -84,14 +84,15 @@ A compact version of BERT retaining ~97% of performance while being faster and l
 
 ---
 
-## 🧩 Repository Structure
+## 📂 Repository Structure
 
-📦 HateSpeech_Severity_and_Target_Detection/
+```
+📦 HateSpeechDetection/
 │
 ├── data/                        # Dataset used for training and evaluation
 │   └── OLID_Dataset.zip
 │
-├── docs/                        # Project documentation
+├── docs/                        # Project documentation and report
 │   └── GRP-13-MTECH.pdf
 │
 ├── models/                      # Implementation notebooks
@@ -99,7 +100,13 @@ A compact version of BERT retaining ~97% of performance while being faster and l
 │   └── 02_DistilBERT_Implementation.ipynb
 │
 └── README.md                    # Main project overview and usage instructions
+```
 
+### 🔗 Quick Access
+
+* [📁 Dataset Folder](data/)
+* [📄 Project Report](docs/GRP-13-MTECH.pdf)
+* [🧠 Model Implementations](models/)
 
 ---
 
